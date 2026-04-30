@@ -124,10 +124,33 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Teaching and Outreach
 
-- **EPFL, Physics bachelor** — Teaching assistant: *Statistical physics II: phase transitions*
-- **EPFL, Physics master** — Teaching assistant: *Statistical physics III: complex systems* (random walks, polymers, glassy systems, information theory)
-- **Università degli Studi di Milano-Bicocca** — Student–faculty liaison in the Physics department
-- **Liceo Banfi, Vimercate, Italy** — Outreach presentations to high school students about careers in physics
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>EPFL</strong>, Physics master</span>
+  </div>
+  <div class="cv-entry-detail">Teaching assistant — <em>Statistical physics III: complex systems</em> (random walks, polymers, glassy systems, information theory)</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>EPFL</strong>, Physics bachelor</span>
+  </div>
+  <div class="cv-entry-detail">Teaching assistant — <em>Statistical physics II: phase transitions</em></div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Università degli Studi di Milano-Bicocca</strong></span>
+  </div>
+  <div class="cv-entry-detail">Student–faculty liaison in the Physics department</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Liceo Banfi</strong>, Vimercate, Italy</span>
+  </div>
+  <div class="cv-entry-detail">Outreach presentations to high school students about careers in physics</div>
+</div>
 </section>
 
 <section markdown="1">
@@ -140,39 +163,97 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Talks
 
-`2025` — *Resets allow for canalization in high-dimensional state spaces*
-- APS March Meeting 2025, Anaheim, CA
-- GRC (invited), *Stochastic Physics in Biology*, 2025
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>Resets allow for canalization in high-dimensional state spaces</em></span>
+    <span class="cv-entry-date">2025</span>
+  </div>
+  <div class="cv-entry-detail">
+    APS March Meeting, Anaheim, CA<br>
+    GRC (invited), <em>Stochastic Physics in Biology</em>
+  </div>
+</div>
 
-`2024 – 2025` — *A minimal scenario for the origin of non-equilibrium order*
-- APS March Meeting 2024, Minneapolis, MN
-- PoLS Annual Meeting 2024, ICTP Trieste, Italy
-- NITMB research progress talk, Chicago, IL, 2024
-- GRS, *Stochastic Physics in Biology*, 2025
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>A minimal scenario for the origin of non-equilibrium order</em></span>
+    <span class="cv-entry-date">2024 – 2025</span>
+  </div>
+  <div class="cv-entry-detail">
+    APS March Meeting 2024, Minneapolis, MN<br>
+    PoLS Annual Meeting 2024, ICTP Trieste, Italy<br>
+    NITMB research progress talk, Chicago, IL, 2024<br>
+    GRS, <em>Stochastic Physics in Biology</em>, 2025
+  </div>
+</div>
 
-`2022` — *Higher accuracy due to higher speeds in copying information* — APS March Meeting 2022, Chicago, IL
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>Higher accuracy due to higher speeds in copying information</em></span>
+    <span class="cv-entry-date">2022</span>
+  </div>
+  <div class="cv-entry-detail">APS March Meeting 2022, Chicago, IL</div>
+</div>
 
-`2019` — *Optimality of cooperativity in allosteric materials and proteins* — APS March Meeting 2019, Boston, MA
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>Optimality of cooperativity in allosteric materials and proteins</em></span>
+    <span class="cv-entry-date">2019</span>
+  </div>
+  <div class="cv-entry-detail">APS March Meeting 2019, Boston, MA</div>
+</div>
 
-`2018` — *Architecture of allosteric materials and principles for optimal cooperativity*
-- APS March Meeting 2018, Los Angeles, CA
-- DPG Spring Meeting 2018, Berlin, Germany
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>Architecture of allosteric materials and principles for optimal cooperativity</em></span>
+    <span class="cv-entry-date">2018</span>
+  </div>
+  <div class="cv-entry-detail">
+    APS March Meeting 2018, Los Angeles, CA<br>
+    DPG Spring Meeting 2018, Berlin, Germany
+  </div>
+</div>
 </section>
 
 <section markdown="1">
 ## Posters
 
-`2025` — *A double-barcoded library strategy to access activity and accuracy for all single mutants of a DNA polymerase* — GRC, *Molecular Mechanisms in Evolution*, 2025
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>A double-barcoded library strategy to access activity and accuracy for all single mutants of a DNA polymerase</em></span>
+    <span class="cv-entry-date">2025</span>
+  </div>
+  <div class="cv-entry-detail">GRC, <em>Molecular Mechanisms in Evolution</em></div>
+</div>
 
-`2025` — *A minimal scenario for the origin of non-equilibrium order* — GRC, *Stochastic Physics in Biology*, 2025
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>A minimal scenario for the origin of non-equilibrium order</em></span>
+    <span class="cv-entry-date">2025</span>
+  </div>
+  <div class="cv-entry-detail">GRC, <em>Stochastic Physics in Biology</em></div>
+</div>
 
-`2023` — *Accessing evolutionary adaptability through a mutational neighborhood assay* — GRC, *Molecular Mechanisms in Evolution*, 2023
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>Accessing evolutionary adaptability through a mutational neighborhood assay</em></span>
+    <span class="cv-entry-date">2023</span>
+  </div>
+  <div class="cv-entry-detail">GRC, <em>Molecular Mechanisms in Evolution</em></div>
+</div>
 
-`2016 – 2019` — *Architecture of allosteric materials and proteins*
-- Workshop on *Co-evolution in proteins and RNA, theory and experiments*, CSS-Cargèse 2016
-- Workshop on *Computational approaches to investigating allostery*, CECAM-EPFL 2017
-- Boulder Condensed Matter Summer School 2017, *Frustrated and disordered systems*
-- Boulder Condensed Matter Summer School 2019, *Theoretical Biophysics*
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><em>Architecture of allosteric materials and proteins</em></span>
+    <span class="cv-entry-date">2016 – 2019</span>
+  </div>
+  <div class="cv-entry-detail">
+    Workshop on <em>Co-evolution in proteins and RNA, theory and experiments</em>, CSS-Cargèse 2016<br>
+    Workshop on <em>Computational approaches to investigating allostery</em>, CECAM-EPFL 2017<br>
+    Boulder Condensed Matter Summer School 2017, <em>Frustrated and disordered systems</em><br>
+    Boulder Condensed Matter Summer School 2019, <em>Theoretical Biophysics</em>
+  </div>
+</div>
 </section>
 
 </div>
