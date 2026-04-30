@@ -176,6 +176,19 @@ section h2 {
 .entry.hidden { display: none; }
 .entry .meta { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; }
 .entry .body { margin: 0; }
+.entry .body p { margin: 0; }
+.entry .description {
+  margin-top: 4px !important;
+  font-size: 0.92rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.page-lede {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: -16px 0 32px;
+}
 
 h3 {
   font-size: 0.95rem;

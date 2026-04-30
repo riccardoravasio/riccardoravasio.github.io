@@ -30,7 +30,10 @@ description: "Postdoctoral Scholar, University of Chicago"
   {% for pub in selected %}
   <div class="entry">
     <div class="meta">{{ pub.year }}</div>
-    <p class="body">{{ pub.authors }}. {% if pub.url and pub.url != "#" %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}. {{ pub.venue }}.</p>
+    <div class="body">
+      <p>{{ pub.authors }}. {% if pub.url and pub.url != "#" %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}. {{ pub.venue }}.</p>
+      {% if pub.description %}<p class="description">{{ pub.description }}</p>{% endif %}
+    </div>
   </div>
   {% endfor %}
   <p style="margin-top: 20px;"><a href="{{ '/publications.html' | relative_url }}">See all publications →</a></p>
