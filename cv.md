@@ -58,11 +58,11 @@ description: "CV of Riccardo Ravasio"
 
 `2022 – 2025` — Michele Peruzzo, undergraduate, University of Chicago
 
-`2024 – present` — Aidan Etterer, undergraduate, University of Chicago
+`2024 – 2025` — Aidan Etterer, undergraduate, University of Chicago
 
 `2022 – present` — Darren Liu, PhD student, University of Chicago
 
-`2023 – present` — Kristen Vosberg, laboratory technician, University of Chicago
+`2023 – 2026` — Kristen Vosberg, laboratory technician, University of Chicago
 </section>
 
 <section markdown="1">
