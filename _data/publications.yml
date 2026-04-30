@@ -1,5 +1,6 @@
 # Edit this file to add / update publications. Each entry shows up automatically
-# on /publications.html (and the top three on the home page).
+# on /publications.html. The home page shows entries flagged with `featured: true`
+# (in YAML order); if none are flagged it falls back to the top three.
 #
 # Fields:
 #   year     — integer
@@ -9,6 +10,8 @@
 #   url      — link to paper / preprint (use "#" if none)
 #   tags     — list of topic tags; must match the data-filter values in
 #              publications.html for the filter buttons to work
+#   featured — optional. set to true on the entries you want highlighted on
+#              the home page. Omit (or set false) to leave off.
 
 - year: 2026
   authors: "R Ravasio, K Husain, CG Evans, R Phillips, M Ribezzi-Crivellari, et al."

@@ -21,7 +21,13 @@ description: "Postdoctoral Scholar, University of Chicago"
 
 <section id="selected-publications">
   <h2>Selected Publications</h2>
-  {% for pub in site.data.publications limit:3 %}
+  {% assign featured = site.data.publications | where: "featured", true %}
+  {% if featured.size > 0 %}
+    {% assign selected = featured %}
+  {% else %}
+    {% assign selected = site.data.publications | slice: 0, 3 %}
+  {% endif %}
+  {% for pub in selected %}
   <div class="entry">
     <div class="meta">{{ pub.year }}</div>
     <p class="body">{{ pub.authors }}. {% if pub.url and pub.url != "#" %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}. {{ pub.venue }}.</p>
