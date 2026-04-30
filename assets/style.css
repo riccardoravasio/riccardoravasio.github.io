@@ -54,7 +54,7 @@ nav {
   font-size: 0.9rem;
   gap: 16px;
 }
-nav .name { font-weight: 600; }
+nav .name { font-weight: 600; font-size: 1.05rem; }
 nav .name a { text-decoration: none; }
 nav .nav-right {
   display: flex;
