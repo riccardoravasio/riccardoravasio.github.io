@@ -1,0 +1,41 @@
+name: ORCID sync
+
+on:
+  schedule:
+    # Mondays at 12:00 UTC. Adjust or remove this block to change cadence.
+    - cron: '0 12 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run sync
+        env:
+          ORCID_ID: 0000-0003-1100-4683
+        run: python scripts/sync_orcid.py
+
+      - name: Open PR if changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'ORCID sync: add new publications'
+          title: 'ORCID sync: new publications'
+          body: |
+            Automated sync from ORCID. New entries (if any) are appended
+            at the bottom of `_data/publications.yml` under a review marker.
+            Review tags / position / venue formatting before merging.
+          branch: orcid-sync
+          delete-branch: true

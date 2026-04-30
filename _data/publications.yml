@@ -49,7 +49,7 @@
   authors: "A Nande, V Dubinkina, R Ravasio, GH Zhang, GJ Berman"
   title: "Bottlenecks, modularity, and the neural control of behavior"
   venue: "Frontiers in Behavioral Neuroscience 16, 835753"
-  url: "#"
+  url: "https://doi.org/10.3389/fnbeh.2022.835753"
   tags:
     - non-equilibrium
 
@@ -65,7 +65,7 @@
   authors: "B Bravi, R Ravasio, C Brito, M Wyart"
   title: "Direct coupling analysis of epistasis in allosteric materials"
   venue: "PLoS Computational Biology 16 (3), e1007630"
-  url: "#"
+  url: "https://doi.org/10.1371/journal.pcbi.1007630"
   tags:
     - allostery
     - evolution
@@ -84,7 +84,7 @@
   authors: "SJ Wodak, E Paci, NV Dokholyan, IN Berezovsky, A Horovitz, J Li, et al."
   title: "Allostery in its many disguises: from theory to applications"
   venue: "Structure 27 (4), 566–578"
-  url: "#"
+  url: "https://doi.org/10.1016/j.str.2019.01.003"
   tags:
     - allostery
 
@@ -92,7 +92,7 @@
   authors: "I Hartarsky, M Baity-Jesi, R Ravasio, A Billoire, G Biroli"
   title: "Maximum-energy records in glassy energy landscapes"
   venue: "Journal of Statistical Mechanics: Theory and Experiment 2019 (9), 093302"
-  url: "#"
+  url: "https://arxiv.org/abs/1904.08024"
   tags:
     - glasses
 
@@ -100,7 +100,7 @@
   authors: "L Yan, R Ravasio, C Brito, M Wyart"
   title: "Principles for optimal cooperativity in allosteric materials"
   venue: "Biophysical Journal 114 (12), 2787–2798"
-  url: "#"
+  url: "https://doi.org/10.1016/j.bpj.2018.05.015"
   tags:
     - allostery
 
