@@ -3,51 +3,101 @@
 #
 # Fields:
 #   year     — integer
-#   authors  — string ("R. Ravasio, A. N. Other")
+#   authors  — string ("R Ravasio, KB Husain, ...")
 #   title    — string
-#   venue    — string ("Phys. Rev. Lett. 130, 058101")
+#   venue    — string ("Science 391 (6787), 818–824")
 #   url      — link to paper / preprint (use "#" if none)
 #   tags     — list of topic tags; must match the data-filter values in
 #              publications.html for the filter buttons to work
 
 - year: 2026
-  authors: "[Author list]"
-  title: "[Paper title]"
-  venue: "[Venue]"
+  authors: "R Ravasio, K Husain, CG Evans, R Phillips, M Ribezzi-Crivellari, et al."
+  title: "Evolution of error correction through a need for speed"
+  venue: "Science 391 (6787), 818–824"
   url: "#"
   tags:
-    - topic-a
+    - evolution
+    - non-equilibrium
 
 - year: 2025
-  authors: "[Author list]"
-  title: "[Paper title]"
-  venue: "[Venue]"
+  authors: "R Ravasio, KB Husain, CG Evans, R Phillips, M Ribezzi-Crivellari"
+  title: "Resets allow for canalization in high-dimensional state spaces"
+  venue: "SMT"
   url: "#"
   tags:
-    - topic-b
+    - non-equilibrium
+    - evolution
 
 - year: 2024
-  authors: "[Author list]"
-  title: "[Paper title]"
-  venue: "[Venue]"
+  authors: "K Husain, V Sachdeva, R Ravasio, M Peruzzo, W Liu, BH Good, et al."
+  title: "Direct and indirect selection in a proofreading polymerase"
+  venue: "bioRxiv"
   url: "#"
   tags:
-    - topic-a
-    - topic-c
-
-- year: 2023
-  authors: "[Author list]"
-  title: "[Paper title]"
-  venue: "[Venue]"
-  url: "#"
-  tags:
-    - topic-b
-    - topic-c
+    - evolution
 
 - year: 2022
-  authors: "[Author list]"
-  title: "[Paper title]"
-  venue: "[Venue]"
+  authors: "A Nande, V Dubinkina, R Ravasio, GH Zhang, GJ Berman"
+  title: "Bottlenecks, modularity, and the neural control of behavior"
+  venue: "Frontiers in Behavioral Neuroscience 16, 835753"
   url: "#"
   tags:
-    - topic-a
+    - non-equilibrium
+
+- year: 2020
+  authors: "R Ravasio"
+  title: "Mechanics and co-evolution of allosteric materials and proteins"
+  venue: "Ph.D. thesis, EPFL"
+  url: "#"
+  tags:
+    - allostery
+
+- year: 2020
+  authors: "B Bravi, R Ravasio, C Brito, M Wyart"
+  title: "Direct coupling analysis of epistasis in allosteric materials"
+  venue: "PLoS Computational Biology 16 (3), e1007630"
+  url: "#"
+  tags:
+    - allostery
+    - evolution
+
+- year: 2019
+  authors: "R Ravasio, SM Flatt, L Yan, S Zamuner, C Brito, M Wyart"
+  title: "Mechanics of allostery: contrasting the induced fit and population shift scenarios"
+  venue: "Biophysical Journal 117 (10), 1954–1962"
+  url: "#"
+  tags:
+    - allostery
+
+- year: 2019
+  authors: "SJ Wodak, E Paci, NV Dokholyan, IN Berezovsky, A Horovitz, J Li, et al."
+  title: "Allostery in its many disguises: from theory to applications"
+  venue: "Structure 27 (4), 566–578"
+  url: "#"
+  tags:
+    - allostery
+
+- year: 2019
+  authors: "I Hartarsky, M Baity-Jesi, R Ravasio, A Billoire, G Biroli"
+  title: "Maximum-energy records in glassy energy landscapes"
+  venue: "Journal of Statistical Mechanics: Theory and Experiment 2019 (9), 093302"
+  url: "#"
+  tags:
+    - glasses
+
+- year: 2018
+  authors: "L Yan, R Ravasio, C Brito, M Wyart"
+  title: "Principles for optimal cooperativity in allosteric materials"
+  venue: "Biophysical Journal 114 (12), 2787–2798"
+  url: "#"
+  tags:
+    - allostery
+
+- year: 2017
+  authors: "L Yan, R Ravasio, C Brito, M Wyart"
+  title: "Architecture and coevolution of allosteric materials"
+  venue: "Proceedings of the National Academy of Sciences 114 (10), 2526–2531"
+  url: "#"
+  tags:
+    - allostery
+    - evolution

@@ -10,9 +10,10 @@ description: "Publications by Riccardo Ravasio"
   <div class="filter" role="tablist" aria-label="Filter publications">
     <button class="filter-btn active" type="button" data-filter="all">all</button>
     <!-- Add a button per topic. data-filter must match a tag in _data/publications.yml -->
-    <button class="filter-btn" type="button" data-filter="topic-a">[topic-a]</button>
-    <button class="filter-btn" type="button" data-filter="topic-b">[topic-b]</button>
-    <button class="filter-btn" type="button" data-filter="topic-c">[topic-c]</button>
+    <button class="filter-btn" type="button" data-filter="allostery">allostery</button>
+    <button class="filter-btn" type="button" data-filter="evolution">evolution</button>
+    <button class="filter-btn" type="button" data-filter="non-equilibrium">non-equilibrium</button>
+    <button class="filter-btn" type="button" data-filter="glasses">glasses</button>
   </div>
   {% for pub in site.data.publications %}
   <div class="entry" data-tags="{{ pub.tags | join: ' ' }}">
