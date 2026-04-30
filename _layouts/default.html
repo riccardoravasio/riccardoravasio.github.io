@@ -12,7 +12,8 @@
   <script>
     (function () {
       var stored = localStorage.getItem('theme');
-      if (stored === 'dark' || stored === 'light') {
+      if (stored === 'dark') { stored = 'desert'; localStorage.setItem('theme', 'desert'); }
+      if (stored === 'desert' || stored === 'light') {
         document.documentElement.setAttribute('data-theme', stored);
       }
     })();

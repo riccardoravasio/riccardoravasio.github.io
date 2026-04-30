@@ -2,9 +2,8 @@
   var btn = document.getElementById('theme-toggle');
   if (!btn) return;
   btn.addEventListener('click', function () {
-    var explicit = document.documentElement.getAttribute('data-theme');
-    var current = explicit || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-    var next = current === 'dark' ? 'light' : 'dark';
+    var current = document.documentElement.getAttribute('data-theme') === 'desert' ? 'desert' : 'light';
+    var next = current === 'desert' ? 'light' : 'desert';
     document.documentElement.setAttribute('data-theme', next);
     localStorage.setItem('theme', next);
   });
