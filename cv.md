@@ -13,59 +13,29 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Employment
 
-<div class="entry">
-  <div class="meta">2021 – present</div>
-  <div class="body">
-    <strong>Postdoctoral Scholar</strong>, University of Chicago<br>
-    Advisors: Arvind Murugan and Rama Ranganathan
-  </div>
-</div>
+`2021 – present` — **Postdoctoral Scholar**, University of Chicago
+- Advisors: Arvind Murugan and Rama Ranganathan
 </section>
 
 <section markdown="1">
 ## Education
 
-<div class="entry">
-  <div class="meta">2016 – 2020</div>
-  <div class="body">
-    <strong>Ph.D. in Physics</strong>, École Polytechnique Fédérale de Lausanne<br>
-    Advisor: Matthieu Wyart<br>
-    <em>Thesis: Mechanics and co-evolution of allosteric materials and proteins</em>
-  </div>
-</div>
+`2016 – 2020` — **Ph.D. in Physics**, École Polytechnique Fédérale de Lausanne
+- Advisor: Matthieu Wyart
+- Thesis: *Mechanics and co-evolution of allosteric materials and proteins*
 
-<div class="entry">
-  <div class="meta">2013 – 2016</div>
-  <div class="body">
-    <strong>M.Sc. in Theoretical Physics</strong>, Università degli Studi di Milano-Bicocca<br>
-    110/110 cum laude
-  </div>
-</div>
+`2013 – 2016` — **M.Sc. in Theoretical Physics**, Università degli Studi di Milano-Bicocca
+- 110/110 cum laude
 
-<div class="entry">
-  <div class="meta">2015 – 2016</div>
-  <div class="body">
-    <strong>Research trainee</strong>, IPhT at CEA Saclay, France<br>
-    Advisors: Giulio Biroli and Alain Billoire<br>
-    <em>Thesis: Activated dynamics of disordered systems in the mean-field approximation</em>
-  </div>
-</div>
+`2015 – 2016` — **Research trainee**, IPhT at CEA Saclay, France
+- Advisors: Giulio Biroli and Alain Billoire
+- Thesis: *Activated dynamics of disordered systems in the mean-field approximation*
 
-<div class="entry">
-  <div class="meta">2014 – 2015</div>
-  <div class="body">
-    <strong>Exchange programme</strong>, École Polytechnique, Palaiseau, France
-  </div>
-</div>
+`2014 – 2015` — **Exchange programme**, École Polytechnique, Palaiseau, France
 
-<div class="entry">
-  <div class="meta">2010 – 2013</div>
-  <div class="body">
-    <strong>B.Sc. in Physics</strong>, Università degli Studi di Milano-Bicocca<br>
-    Advisor: Diego Noja, 107/110<br>
-    <em>Thesis: Point-interactions in two- and three-dimensional Quantum mechanics</em>
-  </div>
-</div>
+`2010 – 2013` — **B.Sc. in Physics**, Università degli Studi di Milano-Bicocca
+- Advisor: Diego Noja, 107/110
+- Thesis: *Point-interactions in two- and three-dimensional Quantum mechanics*
 </section>
 
 <section markdown="1">
@@ -80,34 +50,19 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Mentoring
 
-<div class="entry">
-  <div class="meta">2017</div>
-  <div class="body">Solange Flatt — Master thesis, EPFL</div>
-</div>
-<div class="entry">
-  <div class="meta">2021 – 2022</div>
-  <div class="body">Sophia Chiang — undergraduate, University of Chicago</div>
-</div>
-<div class="entry">
-  <div class="meta">2022 – 2023</div>
-  <div class="body">Sumana Turimella — undergraduate, University of Chicago</div>
-</div>
-<div class="entry">
-  <div class="meta">2022 – 2025</div>
-  <div class="body">Michele Peruzzo — undergraduate, University of Chicago</div>
-</div>
-<div class="entry">
-  <div class="meta">2024 – present</div>
-  <div class="body">Aidan Etterer — undergraduate, University of Chicago</div>
-</div>
-<div class="entry">
-  <div class="meta">2022 – present</div>
-  <div class="body">Darren Liu — PhD student, University of Chicago</div>
-</div>
-<div class="entry">
-  <div class="meta">2023 – present</div>
-  <div class="body">Kristen Vosberg — laboratory technician, University of Chicago</div>
-</div>
+`2017` — Solange Flatt, Master thesis, EPFL
+
+`2021 – 2022` — Sophia Chiang, undergraduate, University of Chicago
+
+`2022 – 2023` — Sumana Turimella, undergraduate, University of Chicago
+
+`2022 – 2025` — Michele Peruzzo, undergraduate, University of Chicago
+
+`2024 – present` — Aidan Etterer, undergraduate, University of Chicago
+
+`2022 – present` — Darren Liu, PhD student, University of Chicago
+
+`2023 – present` — Kristen Vosberg, laboratory technician, University of Chicago
 </section>
 
 <section markdown="1">
@@ -127,34 +82,41 @@ description: "CV of Riccardo Ravasio"
 </section>
 
 <section markdown="1">
-## Conferences and Talks
+## Talks
 
-### Talks
+`2025` — *Resets allow for canalization in high-dimensional state spaces*
+- APS March Meeting 2025, Anaheim, CA
+- GRC (invited), *Stochastic Physics in Biology*, 2025
 
-- *Resets allow for canalization in high-dimensional state spaces*
-  - APS March Meeting 2025, Anaheim, CA
-  - GRC (invited), *Stochastic Physics in Biology*, 2025
-- *A minimal scenario for the origin of non-equilibrium order*
-  - APS March Meeting 2024, Minneapolis, MN
-  - PoLS Annual Meeting 2024, ICTP Trieste, Italy
-  - NITMB research progress talk, Chicago, IL, 2024
-  - GRS, *Stochastic Physics in Biology*, 2025
-- *Higher accuracy due to higher speeds in copying information* — APS March Meeting 2022, Chicago, IL
-- *Optimality of cooperativity in allosteric materials and proteins* — APS March Meeting 2019, Boston, MA
-- *Architecture of allosteric materials and principles for optimal cooperativity*
-  - APS March Meeting 2018, Los Angeles, CA
-  - DPG Spring Meeting 2018, Berlin, Germany
+`2024 – 2025` — *A minimal scenario for the origin of non-equilibrium order*
+- APS March Meeting 2024, Minneapolis, MN
+- PoLS Annual Meeting 2024, ICTP Trieste, Italy
+- NITMB research progress talk, Chicago, IL, 2024
+- GRS, *Stochastic Physics in Biology*, 2025
 
-### Posters
+`2022` — *Higher accuracy due to higher speeds in copying information* — APS March Meeting 2022, Chicago, IL
 
-- *A double-barcoded library strategy to access activity and accuracy for all single mutants of a DNA polymerase* — GRC, *Molecular Mechanisms in Evolution*, 2025
-- *A minimal scenario for the origin of non-equilibrium order* — GRC, *Stochastic Physics in Biology*, 2025
-- *Accessing evolutionary adaptability through a mutational neighborhood assay* — GRC, *Molecular Mechanisms in Evolution*, 2023
-- *Architecture of allosteric materials and proteins*
-  - Workshop on *Co-evolution in proteins and RNA, theory and experiments*, CSS-Cargèse 2016
-  - Workshop on *Computational approaches to investigating allostery*, CECAM-EPFL 2017
-  - Boulder Condensed Matter Summer School 2017, *Frustrated and disordered systems*
-  - Boulder Condensed Matter Summer School 2019, *Theoretical Biophysics*
+`2019` — *Optimality of cooperativity in allosteric materials and proteins* — APS March Meeting 2019, Boston, MA
+
+`2018` — *Architecture of allosteric materials and principles for optimal cooperativity*
+- APS March Meeting 2018, Los Angeles, CA
+- DPG Spring Meeting 2018, Berlin, Germany
+</section>
+
+<section markdown="1">
+## Posters
+
+`2025` — *A double-barcoded library strategy to access activity and accuracy for all single mutants of a DNA polymerase* — GRC, *Molecular Mechanisms in Evolution*, 2025
+
+`2025` — *A minimal scenario for the origin of non-equilibrium order* — GRC, *Stochastic Physics in Biology*, 2025
+
+`2023` — *Accessing evolutionary adaptability through a mutational neighborhood assay* — GRC, *Molecular Mechanisms in Evolution*, 2023
+
+`2016 – 2019` — *Architecture of allosteric materials and proteins*
+- Workshop on *Co-evolution in proteins and RNA, theory and experiments*, CSS-Cargèse 2016
+- Workshop on *Computational approaches to investigating allostery*, CECAM-EPFL 2017
+- Boulder Condensed Matter Summer School 2017, *Frustrated and disordered systems*
+- Boulder Condensed Matter Summer School 2019, *Theoretical Biophysics*
 </section>
 
 </div>
