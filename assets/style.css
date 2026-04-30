@@ -194,6 +194,31 @@ h3 {
 .cv-content li ul { margin-top: 4px; padding-left: 22px; }
 .cv-content em { color: var(--muted); font-style: italic; }
 
+.cv-entry { margin-bottom: 22px; }
+.cv-entry-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+}
+.cv-entry-head strong { font-weight: 600; }
+.cv-entry-date {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 0.92rem;
+}
+.cv-entry-detail {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin-top: 2px;
+}
+@media (max-width: 520px) {
+  .cv-entry-head { flex-direction: column; align-items: flex-start; gap: 2px; }
+}
+
 .filter {
   display: flex;
   flex-wrap: wrap;

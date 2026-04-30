@@ -13,29 +13,56 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Employment
 
-`2021 – present` — **Postdoctoral Scholar**, University of Chicago
-- Advisors: Arvind Murugan and Rama Ranganathan
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Postdoctoral Scholar</strong>, University of Chicago</span>
+    <span class="cv-entry-date">2021 – present</span>
+  </div>
+  <div class="cv-entry-detail">Advisors: Arvind Murugan and Rama Ranganathan</div>
+</div>
 </section>
 
 <section markdown="1">
 ## Education
 
-`2016 – 2020` — **Ph.D. in Physics**, École Polytechnique Fédérale de Lausanne
-- Advisor: Matthieu Wyart
-- Thesis: *Mechanics and co-evolution of allosteric materials and proteins*
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Ph.D. in Physics</strong>, École Polytechnique Fédérale de Lausanne</span>
+    <span class="cv-entry-date">2016 – 2020</span>
+  </div>
+  <div class="cv-entry-detail">Advisor: Matthieu Wyart &middot; <em>Thesis: Mechanics and co-evolution of allosteric materials and proteins</em></div>
+</div>
 
-`2013 – 2016` — **M.Sc. in Theoretical Physics**, Università degli Studi di Milano-Bicocca
-- 110/110 cum laude
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>M.Sc. in Theoretical Physics</strong>, Università degli Studi di Milano-Bicocca</span>
+    <span class="cv-entry-date">2013 – 2016</span>
+  </div>
+  <div class="cv-entry-detail">110/110 cum laude</div>
+</div>
 
-`2015 – 2016` — **Research trainee**, IPhT at CEA Saclay, France
-- Advisors: Giulio Biroli and Alain Billoire
-- Thesis: *Activated dynamics of disordered systems in the mean-field approximation*
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Research trainee</strong>, IPhT at CEA Saclay, France</span>
+    <span class="cv-entry-date">2015 – 2016</span>
+  </div>
+  <div class="cv-entry-detail">Advisors: Giulio Biroli and Alain Billoire &middot; <em>Thesis: Activated dynamics of disordered systems in the mean-field approximation</em></div>
+</div>
 
-`2014 – 2015` — **Exchange programme**, École Polytechnique, Palaiseau, France
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Exchange programme</strong>, École Polytechnique, Palaiseau, France</span>
+    <span class="cv-entry-date">2014 – 2015</span>
+  </div>
+</div>
 
-`2010 – 2013` — **B.Sc. in Physics**, Università degli Studi di Milano-Bicocca
-- Advisor: Diego Noja, 107/110
-- Thesis: *Point-interactions in two- and three-dimensional Quantum mechanics*
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>B.Sc. in Physics</strong>, Università degli Studi di Milano-Bicocca</span>
+    <span class="cv-entry-date">2010 – 2013</span>
+  </div>
+  <div class="cv-entry-detail">Advisor: Diego Noja, 107/110 &middot; <em>Thesis: Point-interactions in two- and three-dimensional Quantum mechanics</em></div>
+</div>
 </section>
 
 <section markdown="1">
@@ -50,19 +77,48 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Mentoring
 
-`2017` — Solange Flatt, Master thesis, EPFL
-
-`2021 – 2022` — Sophia Chiang, undergraduate, University of Chicago
-
-`2022 – 2023` — Sumana Turimella, undergraduate, University of Chicago
-
-`2022 – 2025` — Michele Peruzzo, undergraduate, University of Chicago
-
-`2024 – 2025` — Aidan Etterer, undergraduate, University of Chicago
-
-`2022 – present` — Darren Liu, PhD student, University of Chicago
-
-`2023 – 2026` — Kristen Vosberg, laboratory technician, University of Chicago
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Solange Flatt</strong> — Master thesis, EPFL</span>
+    <span class="cv-entry-date">2017</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Sophia Chiang</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2021 – 2022</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Sumana Turimella</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2022 – 2023</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Michele Peruzzo</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2022 – 2025</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Aidan Etterer</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2024 – 2025</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Darren Liu</strong> — PhD student, University of Chicago</span>
+    <span class="cv-entry-date">2022 – present</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Kristen Vosberg</strong> — laboratory technician, University of Chicago</span>
+    <span class="cv-entry-date">2023 – 2026</span>
+  </div>
+</div>
 </section>
 
 <section markdown="1">
