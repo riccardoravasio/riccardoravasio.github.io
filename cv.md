@@ -8,6 +8,17 @@ description: "CV of Riccardo Ravasio"
 
 <p class="cv-contact"><a href="mailto:rravasio@uchicago.edu">rravasio@uchicago.edu</a> &middot; <a href="https://linkedin.com/in/riccardo-ravasio/">linkedin.com/in/riccardo-ravasio</a></p>
 
+<nav class="cv-toc" aria-label="CV section links">
+  <a href="#employment">employment</a>
+  <a href="#education">education</a>
+  <a href="#awards-and-fellowships">awards</a>
+  <a href="#mentoring">mentoring</a>
+  <a href="#teaching-and-outreach">teaching</a>
+  <a href="#funding">funding</a>
+  <a href="#talks">talks</a>
+  <a href="#posters">posters</a>
+</nav>
+
 <div class="cv-content" markdown="1">
 
 <section markdown="1">
@@ -77,28 +88,21 @@ description: "CV of Riccardo Ravasio"
 <section markdown="1">
 ## Mentoring
 
+### Current
+
 <div class="cv-entry">
   <div class="cv-entry-head">
-    <span><strong>Solange Flatt</strong> — Master thesis, EPFL</span>
-    <span class="cv-entry-date">2017</span>
+    <span><strong>Darren Liu</strong> — PhD student, University of Chicago</span>
+    <span class="cv-entry-date">2022 – present</span>
   </div>
 </div>
+
+### Past
+
 <div class="cv-entry">
   <div class="cv-entry-head">
-    <span><strong>Sophia Chiang</strong> — undergraduate, University of Chicago</span>
-    <span class="cv-entry-date">2021 – 2022</span>
-  </div>
-</div>
-<div class="cv-entry">
-  <div class="cv-entry-head">
-    <span><strong>Sumana Turimella</strong> — undergraduate, University of Chicago</span>
-    <span class="cv-entry-date">2022 – 2023</span>
-  </div>
-</div>
-<div class="cv-entry">
-  <div class="cv-entry-head">
-    <span><strong>Michele Peruzzo</strong> — undergraduate, University of Chicago</span>
-    <span class="cv-entry-date">2022 – 2025</span>
+    <span><strong>Kristen Vosberg</strong> — laboratory technician, University of Chicago</span>
+    <span class="cv-entry-date">2023 – 2026</span>
   </div>
 </div>
 <div class="cv-entry">
@@ -109,14 +113,26 @@ description: "CV of Riccardo Ravasio"
 </div>
 <div class="cv-entry">
   <div class="cv-entry-head">
-    <span><strong>Darren Liu</strong> — PhD student, University of Chicago</span>
-    <span class="cv-entry-date">2022 – present</span>
+    <span><strong>Michele Peruzzo</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2022 – 2025</span>
   </div>
 </div>
 <div class="cv-entry">
   <div class="cv-entry-head">
-    <span><strong>Kristen Vosberg</strong> — laboratory technician, University of Chicago</span>
-    <span class="cv-entry-date">2023 – 2026</span>
+    <span><strong>Sumana Turimella</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2022 – 2023</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Sophia Chiang</strong> — undergraduate, University of Chicago</span>
+    <span class="cv-entry-date">2021 – 2022</span>
+  </div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head">
+    <span><strong>Solange Flatt</strong> — Master thesis, EPFL</span>
+    <span class="cv-entry-date">2017</span>
   </div>
 </div>
 </section>

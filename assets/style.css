@@ -174,7 +174,30 @@ h3 {
   margin: 0 0 20px;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--rule);
+  scroll-margin-top: 24px;
 }
+.cv-content section h3 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 18px 0 12px;
+}
+
+.cv-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin: -8px 0 36px;
+  font-size: 0.9rem;
+}
+.cv-toc a {
+  color: var(--muted);
+  text-decoration: none;
+  padding: 2px 0;
+}
+.cv-toc a:hover { color: var(--accent); }
 /* CV section headings grouped by meaning, three desert hues */
 .cv-content > section:nth-of-type(1) h2,  /* Employment             */
 .cv-content > section:nth-of-type(2) h2 { /* Education              */
