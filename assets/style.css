@@ -123,14 +123,14 @@ nav a[aria-current="page"] {
 
 header.hero {
   display: grid;
-  grid-template-columns: 120px 1fr;
+  grid-template-columns: 150px 1fr;
   gap: 32px;
   align-items: start;
   margin-bottom: 72px;
 }
 .portrait {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 4px;
   background: var(--portrait-bg);
   filter: grayscale(100%);
