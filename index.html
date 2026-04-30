@@ -1,1 +1,40 @@
-Hello World
+---
+layout: default
+title:
+description: "Postdoctoral Scholar, University of Chicago"
+---
+
+<header class="hero">
+  <!-- Drop a portrait file in the repo and swap this div for: <img class="portrait" src="portrait.jpg" alt="Riccardo Ravasio" /> -->
+  <div class="portrait" aria-hidden="true"></div>
+  <div>
+    <h1>Riccardo Ravasio</h1>
+    <p class="role">Postdoctoral Scholar, University of Chicago</p>
+    <p>[Short intro paragraph — what you do, what you're working on, what you're interested in. Two or three sentences keeps it light.]</p>
+  </div>
+</header>
+
+<section id="about">
+  <h2>About</h2>
+  <p>[Longer about section — background, current focus, where you are.]</p>
+</section>
+
+<section id="selected-publications">
+  <h2>Selected Publications</h2>
+  {% for pub in site.data.publications limit:3 %}
+  <div class="entry">
+    <div class="meta">{{ pub.year }}</div>
+    <p class="body">{{ pub.authors }}. {% if pub.url and pub.url != "#" %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}. {{ pub.venue }}.</p>
+  </div>
+  {% endfor %}
+  <p style="margin-top: 20px;"><a href="{{ '/publications.html' | relative_url }}">See all publications →</a></p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>
+    <a href="mailto:rravasio@uchicago.edu">rravasio@uchicago.edu</a> ·
+    <a href="https://github.com/riccardoravasio">GitHub</a> ·
+    <a href="https://linkedin.com/in/riccardo-ravasio/">LinkedIn</a>
+  </p>
+</section>

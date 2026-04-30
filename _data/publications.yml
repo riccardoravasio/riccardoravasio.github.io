@@ -1,0 +1,53 @@
+# Edit this file to add / update publications. Each entry shows up automatically
+# on /publications.html (and the top three on the home page).
+#
+# Fields:
+#   year     — integer
+#   authors  — string ("R. Ravasio, A. N. Other")
+#   title    — string
+#   venue    — string ("Phys. Rev. Lett. 130, 058101")
+#   url      — link to paper / preprint (use "#" if none)
+#   tags     — list of topic tags; must match the data-filter values in
+#              publications.html for the filter buttons to work
+
+- year: 2026
+  authors: "[Author list]"
+  title: "[Paper title]"
+  venue: "[Venue]"
+  url: "#"
+  tags:
+    - topic-a
+
+- year: 2025
+  authors: "[Author list]"
+  title: "[Paper title]"
+  venue: "[Venue]"
+  url: "#"
+  tags:
+    - topic-b
+
+- year: 2024
+  authors: "[Author list]"
+  title: "[Paper title]"
+  venue: "[Venue]"
+  url: "#"
+  tags:
+    - topic-a
+    - topic-c
+
+- year: 2023
+  authors: "[Author list]"
+  title: "[Paper title]"
+  venue: "[Venue]"
+  url: "#"
+  tags:
+    - topic-b
+    - topic-c
+
+- year: 2022
+  authors: "[Author list]"
+  title: "[Paper title]"
+  venue: "[Venue]"
+  url: "#"
+  tags:
+    - topic-a

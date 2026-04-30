@@ -1,0 +1,11 @@
+title: "Riccardo Ravasio"
+description: "Postdoctoral Scholar, University of Chicago"
+url: ""
+
+# Files & dirs to keep out of the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "*.docx"
+  - "*.DOCX"
