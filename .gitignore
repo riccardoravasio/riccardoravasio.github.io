@@ -1,0 +1,24 @@
+# Claude Code workspace
+.claude/
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler
+vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/local
+.vscode/
+.idea/
+*.swp
+
+# Don't commit raw CV source files
+*.docx
+*.DOCX
