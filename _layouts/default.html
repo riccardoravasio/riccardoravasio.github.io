@@ -9,15 +9,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-  <script>
-    (function () {
-      var stored = localStorage.getItem('theme');
-      if (stored === 'dark') { stored = 'desert'; localStorage.setItem('theme', 'desert'); }
-      if (stored === 'desert' || stored === 'light') {
-        document.documentElement.setAttribute('data-theme', stored);
-      }
-    })();
-  </script>
 </head>
 <body>
   {% include nav.html %}

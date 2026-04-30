@@ -1,15 +1,4 @@
 (function () {
-  var btn = document.getElementById('theme-toggle');
-  if (!btn) return;
-  btn.addEventListener('click', function () {
-    var current = document.documentElement.getAttribute('data-theme') === 'desert' ? 'desert' : 'light';
-    var next = current === 'desert' ? 'light' : 'desert';
-    document.documentElement.setAttribute('data-theme', next);
-    localStorage.setItem('theme', next);
-  });
-})();
-
-(function () {
   var container = document.querySelector('[data-filter-root]');
   if (!container) return;
   var btns = container.querySelectorAll('.filter-btn');
