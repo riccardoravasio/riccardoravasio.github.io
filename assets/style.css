@@ -175,14 +175,14 @@ h3 {
   padding-bottom: 8px;
   border-bottom: 1px solid var(--rule);
 }
-.cv-content > section:nth-of-type(1) h2 { color: #6B7A4D; }  /* Employment   — olive       */
-.cv-content > section:nth-of-type(2) h2 { color: #B0584D; }  /* Education    — terracotta  */
-.cv-content > section:nth-of-type(3) h2 { color: #B86374; }  /* Awards       — rich pink   */
-.cv-content > section:nth-of-type(4) h2 { color: #87977A; }  /* Mentoring    — sage        */
-.cv-content > section:nth-of-type(5) h2 { color: #B07765; }  /* Teaching     — dusty rose  */
-.cv-content > section:nth-of-type(6) h2 { color: #8B6B7B; }  /* Funding      — mauve       */
-.cv-content > section:nth-of-type(7) h2 { color: #A06B47; }  /* Talks        — burnt sienna*/
-.cv-content > section:nth-of-type(8) h2 { color: #5C6B43; }  /* Posters      — deep olive  */
+.cv-content > section:nth-of-type(1) h2 { color: #7A8B3F; }  /* Employment   — olive        */
+.cv-content > section:nth-of-type(2) h2 { color: #C45D3D; }  /* Education    — terracotta   */
+.cv-content > section:nth-of-type(3) h2 { color: #C8597A; }  /* Awards       — rich pink    */
+.cv-content > section:nth-of-type(4) h2 { color: #7BA070; }  /* Mentoring    — fresh sage   */
+.cv-content > section:nth-of-type(5) h2 { color: #C97A5F; }  /* Teaching     — clay rose    */
+.cv-content > section:nth-of-type(6) h2 { color: #9C5E84; }  /* Funding      — rich mauve   */
+.cv-content > section:nth-of-type(7) h2 { color: #B25E2A; }  /* Talks        — burnt sienna */
+.cv-content > section:nth-of-type(8) h2 { color: #4F7032; }  /* Posters      — deep olive   */
 .cv-content code {
   font-family: inherit;
   font-size: inherit;
