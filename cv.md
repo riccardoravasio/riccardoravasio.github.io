@@ -85,7 +85,7 @@ description: "CV of Riccardo Ravasio"
 - Yen fellowship, Institute of Biophysical Dynamics, University of Chicago (2021–2023)
 </section>
 
-<section markdown="1">
+<section markdown="1" class="cv-mentoring">
 ## Mentoring
 
 ### Current

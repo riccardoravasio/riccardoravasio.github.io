@@ -233,6 +233,7 @@ h3 {
 .cv-content em { color: var(--muted); font-style: italic; }
 
 .cv-entry { margin-bottom: 22px; }
+.cv-mentoring .cv-entry { margin-bottom: 6px; }
 .cv-entry-head {
   display: flex;
   justify-content: space-between;
