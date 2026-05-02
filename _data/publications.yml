@@ -26,12 +26,12 @@
     self-assembly, have complex error correction machineries to fix errors
     introduced by forces of disorder, which otherwise would lead to loss of
     genetic information or cell death. Molecular machines like the ribosome
-    and polymerases have complex error correcting schemes, called proofreading,
+    and polymerases have evolved proofreading domains
     that double-check their progress at the cost of time and energy. We found
-    that molecular processes pressured to go fast can evolve a complex error
+    that molecular processes pressured to go fast can evolve such complex error
     correction machinery, even without any pressure to avoid mistakes. This is
-    because the insertion of a wrong component would stall the process, hence
-    the presence of error correction makes everything faster by avoiding the
+    because the insertion of a wrong component stalls the process, hence
+    error correction makes everything faster by avoiding the
     time cost of stalls. Our findings suggest that life's earliest molecular
     machines could have stumbled onto error correction and thus achieved low
     error rates purely by racing against the clock.
