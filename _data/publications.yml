@@ -54,7 +54,16 @@
   venue: "bioRxiv"
   url: "https://www.biorxiv.org/content/10.1101/2024.10.14.618309v1"
   featured: true
-  description: "[One-line summary of the paper — fill in.]"
+  description: >-
+    DNA polymerases span a wide range of error rates, from extremely accurate to error-prone. In stressful conditions 
+    a speed up of evolution from a larger error rate could be a beneficial strategy, but such mutators alleles also pay a cost, 
+    classically attributed to the deleterious load that comes with more errors. Using a viral-origin 
+    DNA polymerase replicating a cytosolic plasmid in yeast, we engineer a system where the long-term benefit 
+    and short-term cost of a mutator allele can be tuned independently. We find that the dominant 
+    cost in this system is not deleterious load but a biophysical "more accurate is faster" trade-off
+    in the polymerase itself: more mutagenic variants are also slower copiers, hurting the growth of their host cell. 
+    The conflict between immediate cost and delayed benefit produces unexpected dynamics: mutators that lose in 
+    every static environment can still win when selection sharpens on the right timescale.
   tags:
     - evolution
 
