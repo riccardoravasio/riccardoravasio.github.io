@@ -132,7 +132,13 @@
   venue: "Proceedings of the National Academy of Sciences 114 (10), 2526–2531"
   url: "https://doi.org/10.1073/pnas.1615536114"
   featured: true
-  description: "[One-line summary of the paper — fill in.]"
+  description: >-
+    Allosteric regulation is ubiquituos across proteins: the activity at one site is modulated
+    by the binding of a molecule at a distant site. This work goes beyond an ad hoc explanation of 
+    how a given allosteric proteins work. We identify general architectural principles by which
+    long-range mechanical response can emerge in elastic materials under selection. We show that elastic networks
+    can be designed to be allosteric using low-dimensional, soft elastic modes with characteristic structural 
+    signatures, suggesting a possible way for how allostery can be designed. 
   tags:
     - allostery
     - evolution
