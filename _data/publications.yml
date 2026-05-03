@@ -30,8 +30,8 @@
     that double-check their progress at the cost of time and energy. We found
     that molecular processes pressured to go fast can evolve such complex error
     correction machinery, even without any pressure to avoid mistakes. This is
-    because the insertion of a wrong component stalls the process, hence
-    error correction makes everything faster by avoiding the
+    because the insertion of a wrong component stalls the process and
+    error correction makes everything faster by avoiding this
     time cost of stalls. Our findings suggest that life's earliest molecular
     machines could have stumbled onto error correction and thus achieved low
     error rates purely by racing against the clock.
@@ -58,7 +58,7 @@
     DNA polymerases span a wide range of error rates, from extremely accurate to error-prone. In stressful conditions 
     a speed up of evolution from a larger error rate could be a beneficial strategy, but such mutators alleles also pay a cost, 
     classically attributed to the deleterious load that comes with more errors. Using a viral-origin 
-    DNA polymerase replicating a cytosolic plasmid in yeast, we engineer a system where the long-term benefit 
+    DNA polymerase replicating a cytosolic plasmid in yeast, we engineer an experimental system where the long-term benefit 
     and short-term cost of a mutator allele can be tuned independently. We find that the dominant 
     cost in this system is not deleterious load but a biophysical "more accurate is faster" trade-off
     in the polymerase itself: more mutagenic variants are also slower copiers, hurting the growth of their host cell. 
@@ -98,7 +98,15 @@
   venue: "Biophysical Journal 117 (10), 1954–1962"
   url: "https://doi.org/10.1016/j.bpj.2019.10.002"
   featured: true
-  description: "[One-line summary of the paper — fill in.]"
+  description: >-
+    Our earlier work on the design of allosteric elastic networks fell within the induced-fit scenario, 
+    where binding shifts the location of a single energy minimum. Here, we extend the analysis to the 
+    population-shift scenario, where the soft mode connects two pre-existing energy wells. 
+    The optimal-stiffness principle of induced fit gives way to a plateau: above a characteristic stiffness 
+    k*_a ∼ 1/N, cooperativity saturates rather than decays, making population-shift architectures more 
+    robust to mutations that stiffen the allosteric mode. Using crystallographic data from 34 allosteric 
+    proteins, we show that the allosteric response is simultaneously spatially extended and rich in shear 
+    strain, and that mode stiffness anti-correlates with protein size, as predicted.
   tags:
     - allostery
 
@@ -135,7 +143,7 @@
   description: >-
     Allosteric regulation is ubiquituos across proteins: the activity at one site is modulated
     by the binding of a molecule at a distant site. This work goes beyond an ad hoc explanation of 
-    how a given allosteric proteins work. We identify general architectural principles by which
+    how a given allosteric proteins work: we identify general architectural principles by which
     long-range mechanical response can emerge in elastic materials under selection. We show that elastic networks
     can be designed to be allosteric and display low-dimensional, soft elastic modes with characteristic structural 
     signatures, suggesting a possible way for how allostery can be designed. 
