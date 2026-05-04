@@ -16,15 +16,15 @@ description: "Research interests of Riccardo Ravasio"
 ## Areas
 
 <div class="entry">
-  <div class="meta">[topic-a]</div>
+  <div class="meta">error correction</div>
   <p class="body">[One-line description of this research area.]</p>
 </div>
 <div class="entry">
-  <div class="meta">[topic-b]</div>
+  <div class="meta">evolution of evolvability</div>
   <p class="body">[One-line description of this research area.]</p>
 </div>
 <div class="entry">
-  <div class="meta">[topic-c]</div>
+  <div class="meta">co-evolution</div>
   <p class="body">[One-line description of this research area.]</p>
 </div>
 </section>
