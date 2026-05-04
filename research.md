@@ -14,6 +14,13 @@ description: "Research interests of Riccardo Ravasio"
 
   My research combines non-equilibrium statistical physics, coarse-grained models and high-throughput molecular biology to get at the pressures that drive this complex error correction machinery in biology, with implications for the origin of life, polymerase engineering and molecular evolution more broadly.
 
+<figure class="research-video">
+  <video controls preload="metadata" playsinline muted>
+    <source src="{{ '/assets/swings.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  <figcaption>With Kabir Husain, collaborator on much of this work.</figcaption>
+</figure>
+
 </section>
 
 <section markdown="1">
