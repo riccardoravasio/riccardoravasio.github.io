@@ -142,6 +142,13 @@ description: "CV of Riccardo Ravasio"
 
 <div class="cv-entry">
   <div class="cv-entry-head">
+    <span><strong>University of Chicago</strong></span>
+  </div>
+  <div class="cv-entry-detail">Volunteer at <em>Physics with a Bang!</em></div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-head">
     <span><strong>EPFL</strong>, Physics master</span>
   </div>
   <div class="cv-entry-detail">Teaching assistant — <em>Statistical physics III: complex systems</em> (random walks, polymers, glassy systems, information theory)</div>
