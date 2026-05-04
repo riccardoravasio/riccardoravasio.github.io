@@ -8,7 +8,11 @@ description: "Research interests of Riccardo Ravasio"
 
 <section markdown="1">
 
-  In competition experiments between variants of a DNA polymerase, we noticed that the more error-prone variants would lose even when inaccuracy was rewarded. This is because more error prone polymerase variants are also slower copiers: the polymerase has a "more accurate is faster" biophysical trade-off. Fifty years of theory on error correction say the opposite: accuracy takes time. How can we reconcile this common knowledge with what observed in the competition experiments? Errors stall replication and correcting them is faster than paying the associated time cost. So, we found that kinetic proofreading and similar non-equilibrium error-correcting machineries can act as an overall speedup, not a slowdown. This suggests that selection for speed alone is enough to evolve elaborate error correction — even with no direct pressure on accuracy and no information to protect.
+  In competition experiments between variants of a DNA polymerase, we noticed that the more error-prone variants would lose even when inaccuracy was rewarded. This is because more error-prone polymerase variants are also slower copiers: the polymerase has a "more accurate is faster" biophysical trade-off. Fifty years of theory on error correction says the opposite: accuracy takes time. How can we reconcile this common knowledge with what we observed in the competition experiments? 
+
+  Errors stall replication and correcting them is faster than paying the associated time cost. So we found that kinetic proofreading and similar non-equilibrium error-correcting machineries can act as an overall speedup, not a slowdown. This suggests that selection for speed alone is enough to evolve elaborate error correction — even with no direct pressure on accuracy and no information to protect.
+
+  My research combines non-equilibrium statistical physics, coarse-grained models and high-throughput molecular biology to get at the pressures that drive this complex error correction machinery in biology, with implications for the origin of life, polymerase engineering and molecular evolution more broadly.
 
 </section>
 
@@ -25,6 +29,6 @@ description: "Research interests of Riccardo Ravasio"
 </div>
 <div class="entry">
   <div class="meta">co-evolution</div>
-  <p class="body"></p>
+  <p class="body">When is evolution predictable from the effect of single mutations, and when do epistasis and co-evolutionary patterns become essential?</p>
 </div>
 </section>
