@@ -17,14 +17,14 @@ description: "Research interests of Riccardo Ravasio"
 
 <div class="entry">
   <div class="meta">error correction</div>
-  <p class="body">[One-line description of this research area.]</p>
+  <p class="body">Which are the constraints behind the evolution of complex machinery essential for maintaining information?</p>
 </div>
 <div class="entry">
   <div class="meta">evolution of evolvability</div>
-  <p class="body">[One-line description of this research area.]</p>
+  <p class="body">How easy it is for a protein to gain new functions?</p>
 </div>
 <div class="entry">
   <div class="meta">co-evolution</div>
-  <p class="body">[One-line description of this research area.]</p>
+  <p class="body">How</p>
 </div>
 </section>
