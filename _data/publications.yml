@@ -16,7 +16,7 @@
 #                  entries on the home page (not on /publications.html).
 
 - year: 2026
-  authors: "R Ravasio, K Husain, CG Evans, R Phillips, M Ribezzi-Crivellari, et al."
+  authors: "R Ravasio<sup>*</sup>, K Husain<sup>*</sup>, CG Evans, R Phillips, M Ribezzi-Crivellari, et al."
   title: "Evolution of error correction through a need for speed"
   venue: "Science 391 (6787), 818–824"
   url: "https://www.science.org/doi/10.1126/science.adt1275"
@@ -49,7 +49,7 @@
     - evolution
 
 - year: 2024
-  authors: "K Husain, V Sachdeva, R Ravasio, M Peruzzo, W Liu, BH Good, et al."
+  authors: "K Husain<sup>*</sup>, V Sachdeva<sup>*</sup>, R Ravasio, M Peruzzo, W Liu, BH Good, et al."
   title: "Direct and indirect selection in a proofreading polymerase"
   venue: "bioRxiv"
   url: "https://www.biorxiv.org/content/10.1101/2024.10.14.618309v1"
@@ -126,7 +126,7 @@
     - glasses
 
 - year: 2018
-  authors: "L Yan, R Ravasio, C Brito, M Wyart"
+  authors: "L Yan<sup>*</sup>, R Ravasio<sup>*</sup>, C Brito, M Wyart"
   title: "Principles for optimal cooperativity in allosteric materials"
   venue: "Biophysical Journal 114 (12), 2787–2798"
   url: "https://doi.org/10.1016/j.bpj.2018.05.015"
