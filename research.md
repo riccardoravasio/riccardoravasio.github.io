@@ -25,6 +25,6 @@ description: "Research interests of Riccardo Ravasio"
 </div>
 <div class="entry">
   <div class="meta">co-evolution</div>
-  <p class="body">How</p>
+  <p class="body">How rugged is the landscape that a protein sequence explores upon mutations to achieve other functions?</p>
 </div>
 </section>
