@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riccardoravasio.github.io/sitemap.xml

@@ -1,6 +1,12 @@
 title: "Riccardo Ravasio"
 description: "Postdoctoral Scholar, University of Chicago"
-url: ""
+url: "https://riccardoravasio.github.io"
+author: "Riccardo Ravasio"
+lang: en
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Files & dirs to keep out of the build
 exclude:
