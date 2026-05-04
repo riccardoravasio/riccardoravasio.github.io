@@ -22,3 +22,7 @@ Thumbs.db
 # Don't commit raw CV source files
 *.docx
 *.DOCX
+
+# Local-only media (kept on disk, not pushed)
+assets/swings.gif
+assets/swings.mp4
