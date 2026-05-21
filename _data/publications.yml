@@ -39,6 +39,15 @@
     - evolution
     - non-equilibrium
 
+- year: 2026
+  authors: "R Ravasio, K Husain, CG Evans, R Phillips, M Ribezzi-Crivellari, JW Szostak, A Murugan"
+  title: "Conditioning as a route to stereotyped behavior in growing populations"
+  venue: "arXiv:2605.13009"
+  url: "https://arxiv.org/abs/2605.13009"
+  tags:
+    - non-equilibrium
+    - evolution
+
 - year: 2025
   authors: "R Ravasio, KB Husain, CG Evans, R Phillips, M Ribezzi-Crivellari"
   title: "Resets allow for canalization in high-dimensional state spaces"
