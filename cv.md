@@ -188,6 +188,17 @@ description: "CV of Riccardo Ravasio"
 
 <div class="cv-entry">
   <div class="cv-entry-head">
+    <span><em>Evolution of error correction through a need for speed</em></span>
+    <span class="cv-entry-date">2025</span>
+  </div>
+  <div class="cv-entry-detail">
+    Laboratoire Jean Perrin (invited), Sorbonne Université, Paris<br>
+    ENS Physics Department (invited), Paris
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-head">
     <span><em>Resets allow for canalization in high-dimensional state spaces</em></span>
     <span class="cv-entry-date">2025</span>
   </div>
